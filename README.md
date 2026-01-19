@@ -1,8 +1,9 @@
 We used the https://github.com/autowarefoundation/autoware.privately-owned-vehicles/tree/main 
 and updated the https://github.com/autowarefoundation/autoware.privately-owned-vehicles/tree/main/Models/visualizations
-folder with updated files from the system 
+with new and updated files.
 
-Tested on Ubuntu 22.04
+
+Tested on Ubuntu 22.04, you can test on your own risk. If you have questions open an issue
 
 
 how to install all
