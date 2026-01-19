@@ -11,10 +11,11 @@ how to install all
 1. download all weights and safe it to the Downloads folder
    https://hidrive.ionos.com/lnk/J8bkS5SeE
 2. download all install files and copy them into your $Home Folder
-3. sudo chmod +x autoware_private_install.sh
-4. sudo chmod +x autoware_weights_install.sh
-5. run ./autoware_private_install.sh
-6. run ./autoware_weights_install.sh
+3. pip install -r requirements.txt (read the requirements install file)
+4. sudo chmod +x autoware_private_install.sh
+5. sudo chmod +x autoware_weights_install.sh
+6. run ./autoware_private_install.sh
+7. run ./autoware_weights_install.sh
 
 If all runned without error, go to autoware_projects/commands and test the commands  
 
