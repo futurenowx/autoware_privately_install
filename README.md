@@ -17,7 +17,9 @@ how to install all
 6. run ./autoware_private_install.sh
 7. run ./autoware_weights_install.sh
 
-If all runned without error, go to autoware_projects/commands and test the commands  
+If all runned without error, go to autoware_projects/commands and test the commands 
+
+------------------------------
 
 Camera usage
 
